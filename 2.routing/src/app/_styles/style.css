@@ -3,3 +3,14 @@
     font-weight: bold;
     text-decoration: none;
 }
+
+header, footer {
+    background-color: aqua;
+    padding: 2vh 2vw;
+    margin-block: 2vh;
+}
+
+footer {
+    background-color: brown;
+    color: white;
+}
